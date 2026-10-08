@@ -1,0 +1,83 @@
+[
+  {
+    "file": "bell.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:04.27",
+    "bytes": 25676,
+    "sha256": "ee3ee1597a39e759d11119efdb40fe78bd3f63eb3db4ece7cab8523c9eaba53c"
+  },
+  {
+    "file": "boom.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:01.32",
+    "bytes": 7964,
+    "sha256": "ea79d497eb20fbc7b3fc30e6483a92135dc8f9855c2cc7689a8bb057b6c4a87f"
+  },
+  {
+    "file": "bruh.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:05.11",
+    "bytes": 30716,
+    "sha256": "2e26c06a3418d82f2e532d791434b825c97f5e33c43b01dc8becf746149321d1"
+  },
+  {
+    "file": "damn_son.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:02.59",
+    "bytes": 15596,
+    "sha256": "35fd2c5b5ca22b1e3b69c01483e6c7d2fc79000fbe70a5f39421e23ed6ac6315"
+  },
+  {
+    "file": "fah.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:01.99",
+    "bytes": 11996,
+    "sha256": "9fde16541ab42a55ba83d8c30eb47b5d6d5a152d4f28fa1bedaf7dfd40c017f0"
+  },
+  {
+    "file": "laugh.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:10.94",
+    "bytes": 65708,
+    "sha256": "1b1b54d4b0b14af772222b9b965eafabfc9864346954c27a28288346635dd3c4"
+  },
+  {
+    "file": "oof.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:01.06",
+    "bytes": 6380,
+    "sha256": "b00a700fe41443792a5393443d6094935c44beb0b66915d952a0efc2605b9f26"
+  },
+  {
+    "file": "rizz.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:01.99",
+    "bytes": 11996,
+    "sha256": "70ceaaeac5114c014ca89296fe496f88c543000c89ecebff5f66c5c492fe09f6"
+  },
+  {
+    "file": "wow.mp3",
+    "mpeg_version": 2,
+    "bitrate_kbps": 48,
+    "sample_rate_hz": 24000,
+    "duration": "00:00:04.25",
+    "bytes": 25532,
+    "sha256": "153a3f6aa8c9e48519fa6fd97ff2ab4f788e5243bb380810c4399ca9f7731346"
+  }
+]
